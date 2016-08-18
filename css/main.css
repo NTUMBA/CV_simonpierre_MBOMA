@@ -181,6 +181,7 @@ textarea {
    /*pseudo-class==================================================================*/
    a:link{
      text-decoration: none;
+     color: #eef;
    }
    a:hover{
      color: #ffa500;background-color: #7fff00;
